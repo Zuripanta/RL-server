@@ -1,33 +1,33 @@
-[01:26:47] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[01:26:47] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[01:26:47] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[01:26:47] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2859 for Minecraft 1.12.2 loading
-[01:26:47] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_412, running on Linux:amd64:6.5.0-1021-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[01:26:47] [main/INFO] [FML]: Searching /workspaces/RL-server/servidor_minecraft/./mods for mods
-[01:26:47] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[01:26:47] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[01:26:47] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[01:26:47] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[01:26:47] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[01:26:49] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[01:26:49] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[01:26:49] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[01:26:49] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[01:26:49] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[01:26:49] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[01:26:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[01:26:52] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2859 Initialized
-[01:26:52] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[01:26:52] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[01:26:52] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[01:26:53] [Server thread/WARN] [FML]: Enabling removal of erroring Entities - USE AT YOUR OWN RISK
-[01:26:53] [Server thread/WARN] [FML]: Enabling removal of erroring Tile Entities - USE AT YOUR OWN RISK
-[01:26:53] [Server thread/INFO] [FML]: Searching /workspaces/RL-server/servidor_minecraft/./mods for mods
-[01:26:53] [Server thread/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
-[01:26:53] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[01:26:53] [Server thread/WARN] [FML]: Missing English translation for antiquecities: assets/antiquecities/lang/en_us.lang
-[01:26:53] [Server thread/FATAL] [FML]: net.minecraftforge.fml.common.MissingModsException: Mod antiquecities (Antique Cities) requires [lostcities@1.12-2.0.10,), antiqueatlas@[1.12.2-4.4.9,)]
-[01:26:53] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: Encountered an unexpected exception
+[01:29:41] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:29:41] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:29:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:29:42] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2859 for Minecraft 1.12.2 loading
+[01:29:42] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_412, running on Linux:amd64:6.5.0-1021-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[01:29:42] [main/INFO] [FML]: Searching /workspaces/RL-server/servidor_minecraft/./mods for mods
+[01:29:42] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:29:42] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:29:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:29:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:29:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:29:43] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[01:29:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:29:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:29:43] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:29:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:29:43] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[01:29:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[01:29:46] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2859 Initialized
+[01:29:46] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[01:29:46] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[01:29:46] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[01:29:46] [Server thread/WARN] [FML]: Enabling removal of erroring Entities - USE AT YOUR OWN RISK
+[01:29:46] [Server thread/WARN] [FML]: Enabling removal of erroring Tile Entities - USE AT YOUR OWN RISK
+[01:29:46] [Server thread/INFO] [FML]: Searching /workspaces/RL-server/servidor_minecraft/./mods for mods
+[01:29:47] [Server thread/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
+[01:29:47] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[01:29:47] [Server thread/WARN] [FML]: Missing English translation for antiquecities: assets/antiquecities/lang/en_us.lang
+[01:29:47] [Server thread/FATAL] [FML]: net.minecraftforge.fml.common.MissingModsException: Mod antiquecities (Antique Cities) requires [lostcities@1.12-2.0.10,), antiqueatlas@[1.12.2-4.4.9,)]
+[01:29:47] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: Encountered an unexpected exception
 net.minecraftforge.fml.common.MissingModsException: Mod antiquecities (Antique Cities) requires [lostcities@1.12-2.0.10,), antiqueatlas@[1.12.2-4.4.9,)]
 	at net.minecraftforge.fml.common.Loader.sortModList(Loader.java:266) ~[Loader.class:?]
 	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:572) ~[Loader.class:?]
@@ -36,9 +36,9 @@ net.minecraftforge.fml.common.MissingModsException: Mod antiquecities (Antique C
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) ~[nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_412]
-[01:26:53] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: This crash report has been saved to: /workspaces/RL-server/servidor_minecraft/./crash-reports/crash-2024-06-19_01.26.53-server.txt
-[01:26:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[01:26:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[01:26:53] [Server thread/INFO] [FML]: The state engine was in incorrect state CONSTRUCTING and forced into state SERVER_STOPPED. Errors may have been discarded.
-[01:26:53] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[01:26:53] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[01:29:47] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: This crash report has been saved to: /workspaces/RL-server/servidor_minecraft/./crash-reports/crash-2024-06-19_01.29.47-server.txt
+[01:29:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[01:29:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[01:29:47] [Server thread/INFO] [FML]: The state engine was in incorrect state CONSTRUCTING and forced into state SERVER_STOPPED. Errors may have been discarded.
+[01:29:47] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[01:29:47] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
